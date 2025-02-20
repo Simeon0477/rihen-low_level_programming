@@ -1,7 +1,8 @@
 #include "main.h"
 
+
 int main()
 {
-    print_alphabet();
+    times_table();
     return 0;
 }
